@@ -1,0 +1,13 @@
+{
+  "name": "reshape-component",
+  "description": "Include components in reshape templates",
+  "version": "1.0.0",
+  "author": "msssk",
+  "bugs": "https://github.com/mkdecisiondev/reshape-component/issues",
+  "main": "lib",
+  "private": false,
+  "repository": "https://github.com/mkdecisiondev/reshape-component/",
+  "dependencies": {
+    "reshape-plugin-util": "^0.2.0"
+  }
+}
