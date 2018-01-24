@@ -4,10 +4,17 @@
   "version": "1.0.0",
   "author": "msssk",
   "bugs": "https://github.com/mkdecisiondev/reshape-component/issues",
+  "homepage": "https://github.com/mkdecisiondev/reshape-component/",
+  "keywords": [
+    "component",
+    "reshape-plugin"
+  ],
+  "license": "MIT",
   "main": "lib",
   "private": false,
   "repository": "https://github.com/mkdecisiondev/reshape-component/",
-  "dependencies": {
-    "reshape-plugin-util": "^0.2.0"
+  "devDependencies": {
+    "reshape-plugin-util": "^0.2.0",
+    "when": "^3.7.8"
   }
 }
