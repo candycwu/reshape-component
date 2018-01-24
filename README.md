@@ -1,6 +1,6 @@
 # Reshape Component
 
-This plugin is a minor change to [reshape-include](https://raw.githubusercontent.com/reshape/include) that transfers
+This plugin is a minor change to [reshape-include](https://github.com/reshape/include) that transfers
 node attributes from the `component` tag to the first top-level node in the included file.
 
 For example, in the following use of `component`:
