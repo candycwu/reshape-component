@@ -28,7 +28,7 @@ Component template (`components/card.html`):
 
 Code that uses the component:
 ```html
-<component src="components/MyComponent.html" class="active">
+<component src="components/card.html" class="active">
 	<card-title>My Title</card-title>
 	<card-body>My Body Content</card-body>
 </component>
