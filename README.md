@@ -36,7 +36,7 @@ Code that uses the component:
 
 Result:
 ```html
-<div class="card">
+<div class="card active">
 	<h1>My Title</h1>
 	<div>My Body Content</div>
 </div>
