@@ -16,7 +16,7 @@ The `id` and `class` attributes will be copied to the first top-level node in th
 
 * The `src` and `type` attributes are used by the `reshape-component` plugin and will not be copied
 * The `class` attribute will be appended to any existing `class` attribute
-* All other attributes will be copied
+* All other attributes will be destructively copied
 
 ## The `type` attribute
 

@@ -13,7 +13,7 @@
   "main": "lib",
   "private": false,
   "repository": "https://github.com/mkdecisiondev/reshape-component/",
-  "devDependencies": {
+  "dependencies": {
     "reshape-plugin-util": "^0.2.0"
   }
 }
